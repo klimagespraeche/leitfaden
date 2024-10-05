@@ -1,3 +1,5 @@
-Regeln für die Gesprächskreise
-==============================
+Regeln für die Gespräche
+========================
+
+* zurück zur [Startseite](README.md)
 

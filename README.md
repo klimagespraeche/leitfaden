@@ -72,7 +72,7 @@ Es gibt viele Wege, am Repository mitzuarbeiten. Das hier ist der schnellste Weg
 * Im Bearbeitungs-Modus siehst Du den Inhalt der jeweiligen Datei in einer anderen Form: Formatierungen werden als Text eingegeben. D.h. Man macht z.B. kenntlich, dass eine Zeile eine Überschrift sein soll, indem man sie mit Bindestrichen '-' oder Gleichheitszeichen '=' unterschtreicht. Oder Listen werden mit den Symbolen '*' bzw '1.', '2.', ... angelegt. Diese Schreibweise nennt man _Markdown_. Weiter oben ist eine Übersicht verlinkt, die beschreibt, wie man Formatierungen mit Markdown vornimmt. Wenn Du während der Bearbeitung eine Vorschau Deiner Formatierungen sehen willst, kannst Du oben zwischen den **Buttons "Preview" und "Edit"** hin und her schalten.
 * Wenn Deine Bearbeitung fertig ist, klicke oben rechts auf den **Button "Commit changes ..."** und gibt einen kurzen Einzeiler ein, der beschreibt, was Du verändert hast. (_commit message_) Das Feld 'Extended description' kannst Du leer lassen. Stelle in der angezeigten Box nochmal kurz sicher, dass der Commit auf den von Dir angelegten branch erfolgt ('Commit directly to the ... branch') und klicke auf 'Commit changes'.
 
-Das war's schon. Du hast soeben eine neue Version (Commit) auf einem Entwicklungszweig (Branch) erstellt. :-)
+Das war's schon. :smiley: Du hast soeben eine neue Version (Commit) auf einem Entwicklungszweig (Branch) erstellt!
 
 Unter (https://github.com/ulistopper/klimagespraeche-leitfaden/network) bzw. wenn Du unter dem grünen Button '<> Code' auf 'Commits' klickst, taucht Deine Änderung als zusätzlicher Punkt auf.
 

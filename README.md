@@ -55,3 +55,25 @@ Verschiedene parallel existierende Versions-Stränge (_branches_) stellen mögli
 ### Ich habe keine Lust mich hier anzumelden und mich mit Versionskontrolle zu befassen. Kann ich auch ohne das ganze Git-Zeug mitmachen?
 
 Ja. Es gibt natürlich auch andere Möglichkeiten, seine eigenen Verbesserungsvorschäge oder Leitfaden-Entwürfe einzubringen. Z.B. indem man in der Chat-Gruppe einfach per Nachricht mitteilt, welche Gesprächsregeln man besser fände. Oder indem man ein Word-Dokument in eine Cloud hochlädt und mit der Gruppe teilt. Es wird sich dann sicher jemand finden, der diesen Vorschlag auch hier im Git-Repository als Commit auf einem existierenden oder einem neuen Branch einpflegt.
+
+### Ich will direkt online mitmischen. Was muss ich tun?
+
+Es gibt viele Wege, am Repository mitzuarbeiten. Das hier ist der schnellste Weg:
+
+(Beschrieben ist die Bedienung am Computer. Bei Smartphones könnte die Benutzeroberfläche leicht anders aussehen.)
+* Erstelle einen kostenlosen Account auf GitHub.
+* Gehe dann auf die Seite des Repositories: (https://github.com/ulistopper/klimagespraeche-leitfaden)
+* Mache Dich mit den Dateien vertraut, die im Repository liegen. Die Datei REAMDE.md hat eine besondere Stellung: Sie wird direkt auf der Startseite des Repositories angezeigt.
+* Du befindest Dich zunächst auf dem Haupt-Entwicklungspfad 'main' (Siehe **graue Auswahl-Box unter der Überschrift des Repositories**). 'main' ist sowas wie der Stamm des Versionsbaumes. Wir wollen diesen Stamm so wenig wie möglich für die Entwicklung des Leitfadens nutzen. Hier sollten lediglich die fundamentale Dateistruktur und die allgemeingültigen Inhalte der README.md entwickelt werden. Werfe am besten mal einen Blick auf (https://github.com/ulistopper/klimagespraeche-leitfaden/network), um Dir einen Überblick über die bestehenden Branches zu verschaffen. (Auch erreichbar im Menü über den Punkt "Insights")
+* Wenn Du Änderungen vornehmen willst, solltest Du sie auf einem separaten Branch durchführen.
+  * Falls Du dafür schon einen Branch abgezweigt hast, wähle ihn einfach in der kleinen grauen Auswahlbox unter der Überschrift des Repositories aus.
+  * Falls Du noch keinen Branch abgezweigt hast, **klicke auf das Wort "Branches" unter der Überschrift des Repositories**. Auf der dann erscheinenden Seite klickst Du auf den **grünen Button "New branch"**. Wähle einen sinnvollen Namen, z.B. deinen Vornamen. Das Repository wird nun automatisch auf deinen Branch umgestellt. Die Inhalte sind erstmal identisch mit dem was Du vor dem Abzweigen gesehen hast.
+* Nun kannst Du einfach die Datei öffnen, die Du verändern willst und dann das **Bleistift-Symbol zum Bearbeiten** klicken.
+* Im Bearbeitungs-Modus siehst Du den Inhalt der jeweiligen Datei in einer anderen Form: Formatierungen werden als Text eingegeben. D.h. Man macht z.B. kenntlich, dass eine Zeile eine Überschrift sein soll, indem man sie mit Bindestrichen '-' oder Gleichheitszeichen '=' unterschtreicht. Oder Listen werden mit den Symbolen '*' bzw '1.', '2.', ... angelegt. Diese Schreibweise nennt man _Markdown_. Weiter oben ist eine Übersicht verlinkt, die beschreibt, wie man Formatierungen mit Markdown vornimmt. Wenn Du während der Bearbeitung eine Vorschau Deiner Formatierungen sehen willst, kannst Du oben zwischen den **Buttons "Preview" und "Edit"** hin und her schalten.
+* Wenn Deine Bearbeitung fertig ist, klicke oben rechts auf den **Button "Commit changes ..."** und gibt einen kurzen Einzeiler ein, der beschreibt, was Du verändert hast. (_commit message_) Das Feld 'Extended description' kannst Du leer lassen. Stelle in der angezeigten Box nochmal kurz sicher, dass der Commit auf den von Dir angelegten branch erfolgt ('Commit directly to the ... branch') und klicke auf 'Commit changes'.
+
+Das war's schon. Du hast soeben eine neue Version (Commit) auf einem Entwicklungszweig (Branch) erstellt. :-)
+
+Unter (https://github.com/ulistopper/klimagespraeche-leitfaden/network) bzw. wenn Du unter dem grünen Button '<> Code' auf 'Commits' klickst, taucht Deine Änderung als zusätzlicher Punkt auf.
+
+Fortgeschrittenere Aktionen wie Merges kommen in unserem Fall etwas seltener vor und können dann bei Bedarf besprochen werden.

@@ -5,4 +5,5 @@ Tipps für die Umsetzung
   ** bequeme Sitzgelegenheiten
   ** Kekse
 
+---
 * zurück zur [Startseite](README.md)

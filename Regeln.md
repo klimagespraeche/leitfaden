@@ -1,8 +1,12 @@
 Regeln für die Gespräche
 ========================
 
-1. Wir respektieren einander.
-2. Wir sprechen über den Klimawandel.
+1. Wir verhalten uns respektvoll.
+2. Wir lassen einander aussprechen.
+3. Wir lassen einander zu Wort kommen.
+4. Wir stellen im Gespräch immer wieder den Bezug zu unserem Kernthema "Klima" her.
+5. Wir nutzen das Klimagespräch immer auch, um Organisatorisches zu besprechen.
+6. Wir laden Gäste dazu ein, sich organisatorisch einzubringen.
 
 ---
 * zurück zur [Startseite](README.md)

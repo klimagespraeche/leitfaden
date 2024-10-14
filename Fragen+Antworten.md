@@ -28,7 +28,7 @@ Selbst wenn dieser Best Case nicht eintritt, müssen wir davon ausgehen, dass de
 Anstatt sich jedesmal aufs Neue in Grundsatz-Debatten zu verlieren, wollen wir diese ***Vielfalt begrüßen und beibehalten***. Deshalb soll es möglich sein, _parallel_ an unterschiedlichen Versionen des Leitfadens zu arbeiten. 
 
 ##### Das Beste Tool seiner Art
-Genau dies ist die Stärke von Git: Es verwaltet die Versionen des Repositories in einer baumförmigen Historie. Man kann jederzeit von einem existierenden Entwicklugnsstrang abzweigen (_branch_) und somit eine Parallelentwicklung starten. Und man kann bestehende Zweige jederzeit wieder zusammenführen, sodass das Beste aus beiden Zweigen kombiniert wird (_merge_).
+Genau dies ist die Stärke von Git: Es verwaltet die Versionen des Repositories in einer baumförmigen Historie. Man kann jederzeit von einem existierenden Entwicklungsstrang abzweigen (_branch_) und somit eine Parallelentwicklung starten. Und man kann bestehende Zweige jederzeit wieder zusammenführen, sodass das Beste aus beiden Zweigen kombiniert wird (_merge_).
 Git befähigt uns, sowohl lineare inkrementelle Verbesserungen (_commit_) als auch komplett unabhängige parallele Entwicklungen an den Dokumenten vorzunehmen. Es gibt natürlich auch andere Versions-Kontroll-Werkzeuge mit ähnlichen Funktionen. Aber Git ist das mit Abstand am weitesten Verbreitete. Hunderte kostenlose und kommerzielle Programme und Online-Plattformen sind mit Git kompatibel. Dadurch ist sichergestellt, dass das zugrundeliegende Format des Git-Repositories noch jahrzehntelang Bestand haben wird. Wir setzen also auf einer äußerst skalierbaren und kompatiblen Lösung auf.
 
 ## Warum GitHub?

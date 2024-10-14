@@ -4,6 +4,8 @@ Tipps für die Umsetzung
 Fundamentales zur Aktionsform
 -----------------------------
 
+* möglichst früh im Gespräch bewusst feststellen, welche Werte man mit seinem Gegenüber teilt
+* keine Vorträge halten, sondern viel eher Fragen stellen
 * Die Organisator*innen sollten immer auch das Ziel verfolgen, dass sich die Aktionsform exponentiell ausbreitet.
   * _Selbstverständlich_ ist es auch schon etwas Gutes, ...
     * ... wenn man nur im kleinen Kreis über das Thema Klima spricht.
